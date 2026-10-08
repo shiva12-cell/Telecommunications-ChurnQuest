@@ -24,11 +24,12 @@ By analyzing customer demographics, usage patterns, plan choices, and support ca
 ---
 
 ## Repository Structure
+```
 ├── Dashboard/                      # Visual report snapshots & charts
 ├── Excel_Dataset/                  # Raw and intermediate data tables
 ├── Airtel_Communications_.xlsx     # Core Excel model with calculated columns & scoring
 └── README.md                       # Project Documentation & Methodology
-
+```
 ---
 
 ## Categorized Deep Insights
